@@ -28,12 +28,21 @@ Exports the required and recommend iOS app icons for the various iOS devices and
 The following are the possible iOS app icon filenames (and resolutions):<br>
 `iTunesArtwork@2x (1024 x 1024)`<br>
 `iTunesArtwork (512 x 512)`<br>
-`Icon-72@2x.png (144 x 144)`<br>
 `Icon@2x.png (114 x 114)`<br>
-`Icon-72.png (72 x 72)`<br>
 `Icon.png (57 x 57)`<br>
+`Icon-72@2x.png (144 x 144)`<br>
+`Icon-72.png (72 x 72)`<br>
+`Icon-76@2x.png (152 x 152)`<br>
+`Icon-76.png (76 x 76)`<br>
+`Icon-60@3x.png (180 x 180)`<br>
+`Icon-60@2x.png (120 x 120)`<br>
+`Icon-60.png (60 x 60)`<br>
+`Icon-40@3x.png (120 x 120)`<br>
+`Icon-40@2x.png (80 x 80)`<br>
+`Icon-40.png (40 x 40)`<br>
 `Icon-Small-50@2x.png (100 x 100)`<br>
 `Icon-Small-50.png (50 x 50)`<br>
+`Icon-Small@3x.png (87 x 87)`<br>
 `Icon-Small@2x.png (58 x 58)`<br>
 `Icon-Small.png (29 x 29)`<br>
 
